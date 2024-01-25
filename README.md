@@ -5,7 +5,7 @@ I'm Achraf, a [1337](https://www.1337.ma/)  student and aspiring full-stack deve
 
 ###
 
-<h3 align="left">🛠  Language & tools</h3>
+<h3 align="left">Skills</h3>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
@@ -42,7 +42,7 @@ I'm Achraf, a [1337](https://www.1337.ma/)  student and aspiring full-stack deve
 
 ###
 
-<h3 align="left">🔥  My Stats :</h3>
+<h3 align="left">Github Stats :</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=achrafmaghous&hide_title=false&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="200" alt="stats graph"  />
