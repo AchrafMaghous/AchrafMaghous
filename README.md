@@ -38,6 +38,8 @@ I'm Achraf, a [1337](https://www.1337.ma/)  student and aspiring Software Develo
   <img width="12" />
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/icons/python.svg"  height="40" alt="python logo"/>
+  <img width="12" />
 </div>
 
 ###
