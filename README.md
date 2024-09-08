@@ -40,8 +40,6 @@ I'm Achraf, a [1337](https://www.1337.ma/)  student and aspiring Software Develo
   <img width="12" />
 	<img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
 	<img width="12" />
-	<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="vscode logo"  />
-	<img width="12" />
 </div>
 
 ###
