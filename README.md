@@ -47,8 +47,8 @@ I'm Achraf, a [1337](https://www.1337.ma/)  student and aspiring Software Develo
 <h3 align="left">Github Stats :</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=achrafmaghous&hide_title=false&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=achrafmaghous&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=8&theme=dark&hide_border=false" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=flowstate99&hide_title=false&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=flowstate99&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=8&theme=dark&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
 ###
