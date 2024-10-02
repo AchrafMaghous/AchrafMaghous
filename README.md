@@ -8,37 +8,39 @@ I'm Achraf, a [1337](https://www.1337.ma/)  student and aspiring Software Develo
 <h3 align="left">Skills</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
-  <img width="12" />
+	<img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+	<img width="12" />
+	<img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+	<img width="12" />
+	<img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+	<img width="12" />
+	<img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+	<img width="12" />
+	<img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+	<img width="12" />
+	<img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+	<img width="12" />
+	<img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+	<img width="12" />
+	<img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+	<img width="12" />
+	<img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+	<img width="12" />
+	<img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+	<img width="12" />
+	<img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+	<img width="12" />
+	<img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+	<img width="12" />
+	<img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+	<img width="12" />
+	<img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
+	<img width="12" />
+	<img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
+	<img width="12" />
 	<img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
+	<img width="12" />
+	<img src="https://simpleicons.org/icons/springboot.svg height="40" alt="springboot logo" />
 	<img width="12" />
 </div>
 
